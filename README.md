@@ -1,6 +1,8 @@
 # VerletCloth
 2D physics using Verlet integration in Java to simulate cloth
 
+![https://i.gyazo.com/226f98908ea420f17b4c124b819ad833.png]
+
 ## What is it?
 - A 2D physics engine using [Verlet Integration](https://en.wikipedia.org/wiki/Verlet_integration).
     - Verlet Integration stuck out to me because of its mathematical simplicity; it can be implemeneted in only a few lines of code. After implementing it my self I discovered many built-in features that are comparable to full fledged impulse-based physics engine. Verlet can achieve friction and restitution properties, rigid body physics, and spring simulations for soft body physics.

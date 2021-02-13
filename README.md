@@ -1,7 +1,7 @@
 # VerletCloth
 2D physics using Verlet integration in Java to simulate cloth
 
-![https://i.gyazo.com/226f98908ea420f17b4c124b819ad833.png]
+![](https://i.gyazo.com/226f98908ea420f17b4c124b819ad833.png)
 
 ## What is it?
 - A 2D physics engine using [Verlet Integration](https://en.wikipedia.org/wiki/Verlet_integration).

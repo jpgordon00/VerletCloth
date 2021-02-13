@@ -1,6 +1,8 @@
 # VerletCloth
 2D physics using Verlet integration in Java to simulate cloth
 
+[GIF](https://i.gyazo.com/de1f831be7a68ca47eb5ef8440ff7f26.mp4)
+
 ![](https://i.gyazo.com/226f98908ea420f17b4c124b819ad833.png)
 
 ## What is it?
